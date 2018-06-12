@@ -17,7 +17,7 @@ body,html {
   justify-content: center;
 }
 
-.key {
+.key {  
   border: .4rem solid black;
   border-radius: .5rem;
   margin: 1rem;
